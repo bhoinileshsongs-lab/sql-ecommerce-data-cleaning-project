@@ -1,0 +1,207 @@
+﻿order_id,order_date,customer_name,email,city,product_category,product_name,quantity,price,payment_mode,order_status
+ORD1106,15-03-2023,Sneha,NULL,Delhi,Electronics,Mixer,1,999.00,Other,Delivered
+ORD1071,06-05-2024,Sneha,NULL,Delhi,Electronics,NULL,1,999.00,Credit Card,Pending
+ORD1020,18-08-2023,Sneha,NULL,Mumbai,Home,Mobile,1,999.00,Other,Delivered
+ORD1214,14-10-2024,Ankit,example@,Delhi,Electronics,Laptop,1,499.00,Other,Delivered
+ORD1087,17-06-2023,Guest,gmail.com,Pune,Other,Laptop,1,499.00,Other,Delivered
+ORD1151,28-01-2024,Guest,example@,Mumbai,Electronics,Shoes,1,999.00,UPI,Pending
+ORD1257,31-05-2024,Ritu,yahoo.com,Delhi,Other,Other,1,499.00,Other,Delivered
+ORD1252,10-05-2024,Priya,gmail.com,Mumbai,Electronics,Shoes,1,999.00,Other,Delivered
+ORD1235,31-12-2023,Guest,NULL,Delhi,Electronics,Shoes,1,999.00,Other,Delivered
+ORD1058,14-05-2024,Guest,NULL,Bangalore,NULL,Mobile,0,499.00,Debit Card,Pending
+ORD1169,18-10-2024,Ankit,example@,Pune,Electronics,Shoes,3,499.00,Credit Card,Returned
+ORD1174,28-10-2023,Ankit,NULL,Delhi,Grocery,Mobile,0,1299.00,COD,Cancelled
+ORD1054,11-03-2023,Ritu,example@,Bangalore,NULL,Laptop,1,499.00,NULL,Returned
+ORD1243,09-09-2023,Priya,yahoo.com,NULL,NULL,general,1,1009.7954,COD,Delivered
+ORD1166,16-06-2023,NULL,NULL,Hyderabad,Home,Laptop,1,1299.00,Other,Delivered
+ORD1273,01-04-2023,Guest,NULL,Bangalore,Grocery,T-Shirt,1,1009.7954,NULL,Delivered
+ORD1088,14-12-2024,Ritu,NULL,Delhi,Fashion,T-Shirt,3,499.00,UPI,Pending
+ORD1013,14-06-2024,Ankit,yahoo.com,Delhi,Grocery,Mixer,0,0.00,UPI,Pending
+ORD1241,08-02-2023,NULL,example@,Mumbai,Grocery,Laptop,0,0.00,NULL,Returned
+ORD1263,14-10-2024,NULL,NULL,Hyderabad,Electronics,NULL,0,0.00,Credit Card,Cancelled
+ORD1205,29-09-2024,Guest,NULL,Bangalore,Fashion,Mobile,1,499.00,UPI,Pending
+ORD1049,21-10-2024,Guest,gmail.com,Bangalore,Home,Shoes,1,1299.00,Other,Delivered
+ORD1001,20-04-2024,Priya,NULL,Delhi,Other,T-Shirt,1,499.00,Other,Delivered
+ORD1190,22-01-2024,NULL,example@,NULL,Electronics,Mixer,0,0.00,UPI,Pending
+ORD1201,10-07-2023,Amit,yahoo.com,NULL,Home,T-Shirt,0,999.00,UPI,Returned
+ORD1269,22-05-2024,Amit,yahoo.com,Delhi,Other,Other,1,1299.00,Other,Delivered
+ORD1270,04-01-2024,Ritu,example@,Pune,Grocery,Laptop,0,499.00,NULL,Returned
+ORD1207,15-11-2024,Sneha,example@,Delhi,Electronics,T-Shirt,0,0.00,Credit Card,Pending
+ORD1236,02-11-2024,Ankit,example@,Pune,NULL,Mobile,1,499.00,UPI,Pending
+ORD1156,06-11-2024,Priya,gmail.com,Mumbai,Fashion,NULL,0,999.00,NULL,Returned
+ORD1064,15-06-2024,Ritu,NULL,Delhi,NULL,NULL,1,1299.00,UPI,Returned
+ORD1008,16-03-2024,Sneha,gmail.com,Pune,NULL,Mobile,0,1299.00,COD,Pending
+ORD1135,16-02-2023,Ritu,gmail.com,Bangalore,NULL,Mobile,0,0.00,COD,Pending
+ORD1138,01-11-2023,Ankit,gmail.com,Hyderabad,Grocery,Shoes,1,499.00,Other,Delivered
+ORD1080,09-06-2024,Ankit,NULL,Pune,Fashion,Mixer,1,1009.7954,COD,Delivered
+ORD1260,27-05-2024,NULL,NULL,Pune,Electronics,Laptop,0,0.00,UPI,Cancelled
+ORD1040,19-07-2024,NULL,yahoo.com,Bangalore,Grocery,T-Shirt,1,1299.00,Debit Card,Pending
+ORD1027,16-09-2023,Rahul,yahoo.com,Mumbai,Home,Mixer,1,999.00,Other,Delivered
+ORD1134,17-10-2024,Guest,yahoo.com,NULL,Fashion,NULL,2,1299.00,UPI,Pending
+ORD1215,29-10-2024,Ritu,example@,Delhi,Electronics,Shoes,1,999.00,Other,Delivered
+ORD1292,08-01-2024,Rahul,NULL,Delhi,NULL,Shoes,0,499.00,COD,Pending
+ORD1213,14-12-2023,Ankit,gmail.com,Pune,NULL,T-Shirt,1,1009.7954,NULL,Delivered
+ORD1034,06-11-2024,Ritu,gmail.com,not specified,Other,Shoes,1,999.00,Other,Delivered
+ORD1100,09-10-2024,Ankit,yahoo.com,NULL,Fashion,NULL,0,1299.00,COD,Pending
+ORD1130,28-11-2024,Rahul,NULL,Hyderabad,Home,Mobile,1,1299.00,Other,Delivered
+ORD1217,23-06-2024,Guest,NULL,Hyderabad,Home,T-Shirt,1,1299.00,COD,Returned
+ORD1206,04-12-2024,Rahul,NULL,NULL,Grocery,Mobile,0,1299.00,NULL,Returned
+ORD1014,16-05-2024,Rahul,NULL,Bangalore,Electronics,NULL,0,0.00,NULL,Cancelled
+ORD1041,25-05-2023,Amit,yahoo.com,Bangalore,Grocery,Shoes,0,1299.00,UPI,Returned
+ORD1062,24-12-2024,NULL,example@,Delhi,Fashion,Mobile,0,0.00,COD,Pending
+ORD1230,05-04-2024,NULL,gmail.com,Mumbai,Grocery,Other,1,999.00,Other,Delivered
+ORD1051,11-07-2024,NULL,yahoo.com,Pune,Electronics,Shoes,1,1299.00,Other,Delivered
+ORD1221,10-09-2023,Ritu,yahoo.com,Hyderabad,Electronics,NULL,0,999.00,UPI,Cancelled
+ORD1142,13-09-2023,Rahul,NULL,NULL,Home,Mobile,1,1009.7954,Debit Card,Delivered
+ORD1170,09-12-2024,Guest,gmail.com,Mumbai,Grocery,Mobile,0,1299.00,UPI,Pending
+ORD1028,25-03-2024,NULL,NULL,Mumbai,Electronics,NULL,0,999.00,UPI,Pending
+ORD1242,29-04-2023,Rahul,NULL,NULL,NULL,Shoes,0,1299.00,NULL,Cancelled
+ORD1044,27-08-2023,Rahul,yahoo.com,Mumbai,NULL,NULL,0,0.00,Credit Card,Pending
+ORD1133,09-10-2023,Guest,example@,Bangalore,Electronics,T-Shirt,1,1299.00,COD,Returned
+ORD1043,05-04-2024,Ankit,example@,Delhi,Electronics,Mobile,0,499.00,NULL,Cancelled
+ORD1285,01-09-2024,Priya,NULL,Hyderabad,Electronics,general,1,1009.7954,COD,Delivered
+ORD1282,09-02-2024,Ritu,NULL,Delhi,Home,general,1,1009.7954,Debit Card,Delivered
+ORD1120,01-06-2024,NULL,gmail.com,Mumbai,Other,Mobile,1,999.00,Other,Delivered
+ORD1115,20-04-2024,Priya,NULL,Mumbai,Fashion,general,1,1009.7954,Credit Card,Delivered
+ORD1232,09-12-2024,Rahul,gmail.com,Hyderabad,NULL,Shoes,3,1299.00,COD,Pending
+ORD1258,06-10-2024,Rahul,NULL,Bangalore,Grocery,Mobile,1,499.00,Other,Delivered
+ORD1197,12-03-2024,Sneha,yahoo.com,Pune,NULL,Mixer,1,1009.7954,NULL,Delivered
+ORD1136,23-01-2023,Amit,NULL,Mumbai,Grocery,Laptop,2,999.00,COD,Returned
+ORD1164,18-07-2024,Amit,NULL,Delhi,Electronics,Mixer,3,499.00,Credit Card,Returned
+ORD1224,07-11-2024,Ritu,NULL,Mumbai,Electronics,NULL,0,1299.00,NULL,Cancelled
+ORD1233,14-12-2024,Priya,NULL,Hyderabad,Grocery,T-Shirt,1,1009.7954,UPI,Delivered
+ORD1171,02-04-2024,Sneha,NULL,Delhi,Electronics,T-Shirt,1,999.00,Other,Delivered
+ORD1267,15-11-2024,Ankit,NULL,Mumbai,Electronics,T-Shirt,1,999.00,Other,Delivered
+ORD1294,17-12-2024,Guest,yahoo.com,not specified,Grocery,T-Shirt,1,1299.00,Other,Delivered
+ORD1129,04-07-2024,Guest,example@,Mumbai,NULL,Mixer,1,1009.7954,NULL,Delivered
+ORD1159,24-01-2024,NULL,example@,Bangalore,Electronics,T-Shirt,1,0.00,Credit Card,Pending
+ORD1202,15-09-2024,Ankit,yahoo.com,Mumbai,Other,Shoes,1,499.00,Other,Delivered
+ORD1183,30-10-2023,Sneha,NULL,not specified,Grocery,Laptop,1,999.00,Other,Delivered
+ORD1122,26-07-2023,Amit,yahoo.com,Pune,Home,Shoes,0,0.00,Debit Card,Returned
+ORD1293,31-07-2024,Priya,NULL,Bangalore,NULL,Mobile,0,999.00,NULL,Returned
+ORD1239,26-02-2024,Sneha,NULL,NULL,Fashion,NULL,0,999.00,Credit Card,Cancelled
+ORD1143,04-12-2024,Guest,gmail.com,Delhi,NULL,NULL,0,999.00,Debit Card,Returned
+ORD1147,25-04-2024,Ankit,example@,Hyderabad,Fashion,Mobile,2,1299.00,COD,Pending
+ORD1198,01-12-2023,Priya,NULL,Mumbai,Fashion,Mixer,0,1299.00,Credit Card,Pending
+ORD1127,25-06-2024,Guest,NULL,Mumbai,Grocery,Laptop,2,999.00,NULL,Returned
+ORD1128,16-07-2024,Guest,NULL,Delhi,Other,Other,1,499.00,Other,Delivered
+ORD1266,22-03-2023,Amit,NULL,NULL,NULL,Mixer,1,1299.00,Credit Card,Pending
+ORD1297,18-05-2023,Priya,example@,Delhi,Electronics,Other,1,1299.00,Other,Delivered
+ORD1262,05-02-2024,Ritu,example@,NULL,Grocery,T-Shirt,1,1009.7954,Credit Card,Delivered
+ORD1251,26-11-2023,Priya,yahoo.com,Pune,NULL,Laptop,0,0.00,Credit Card,Cancelled
+ORD1111,10-03-2023,Ankit,yahoo.com,Delhi,Grocery,Mixer,1,1299.00,Other,Delivered
+ORD1059,29-06-2024,Ritu,NULL,Mumbai,Grocery,T-Shirt,0,0.00,COD,Cancelled
+ORD1139,24-07-2023,Sneha,NULL,not specified,Electronics,Mixer,1,999.00,Other,Delivered
+ORD1036,06-05-2023,Rahul,NULL,NULL,Fashion,general,1,1009.7954,UPI,Delivered
+ORD1053,26-11-2024,Amit,NULL,Bangalore,Home,Mobile,1,1299.00,Other,Delivered
+ORD1119,08-10-2023,NULL,NULL,Hyderabad,Electronics,Shoes,0,1299.00,NULL,Cancelled
+ORD1074,28-10-2024,Ankit,gmail.com,Bangalore,NULL,T-Shirt,1,1009.7954,NULL,Delivered
+ORD1103,02-11-2024,Guest,NULL,Mumbai,Home,Other,1,999.00,Other,Delivered
+ORD1226,25-09-2024,Sneha,NULL,Pune,Electronics,T-Shirt,1,1299.00,Other,Delivered
+ORD1162,26-08-2024,Ritu,yahoo.com,Delhi,Electronics,T-Shirt,3,499.00,Debit Card,Pending
+ORD1168,17-06-2024,NULL,NULL,NULL,Electronics,Laptop,0,0.00,Debit Card,Cancelled
+ORD1067,27-05-2024,Priya,yahoo.com,NULL,Electronics,Mobile,0,1299.00,NULL,Cancelled
+ORD1194,12-12-2023,Ritu,NULL,Pune,Home,Other,1,999.00,Other,Delivered
+ORD1032,29-06-2024,Guest,example@,Bangalore,Electronics,Shoes,1,1299.00,Other,Delivered
+ORD1021,30-12-2024,Guest,gmail.com,NULL,Electronics,Mobile,2,1299.00,NULL,Returned
+ORD1037,16-02-2023,Rahul,NULL,Mumbai,Electronics,NULL,0,999.00,COD,Returned
+ORD1229,01-05-2023,Amit,yahoo.com,Mumbai,NULL,T-Shirt,0,999.00,NULL,Cancelled
+ORD1026,16-12-2023,Amit,example@,Mumbai,Other,Laptop,1,1299.00,Other,Delivered
+ORD1225,17-04-2023,Rahul,example@,Delhi,Grocery,T-Shirt,1,999.00,Other,Delivered
+ORD1096,03-12-2023,Ritu,yahoo.com,Delhi,Grocery,NULL,0,1299.00,NULL,Cancelled
+ORD1048,22-11-2024,Guest,NULL,not specified,Home,Other,1,499.00,Other,Delivered
+ORD1219,30-09-2024,NULL,yahoo.com,Delhi,Grocery,Mobile,0,1299.00,NULL,Cancelled
+ORD1045,26-12-2024,Ankit,NULL,Bangalore,NULL,Mobile,1,499.00,Debit Card,Returned
+ORD1005,09-06-2024,Ankit,yahoo.com,Hyderabad,NULL,NULL,0,499.00,Debit Card,Cancelled
+ORD1279,04-08-2023,Guest,NULL,Hyderabad,Electronics,Mobile,1,999.00,Other,Delivered
+ORD1187,29-11-2024,Priya,yahoo.com,NULL,NULL,Shoes,0,999.00,COD,Pending
+ORD1160,14-09-2024,NULL,yahoo.com,NULL,NULL,NULL,0,999.00,COD,Pending
+ORD1255,29-12-2023,Guest,gmail.com,NULL,Grocery,Laptop,0,999.00,Debit Card,Cancelled
+ORD1017,01-10-2023,NULL,example@,Mumbai,Fashion,NULL,2,0.00,COD,Pending
+ORD1280,20-05-2024,Amit,gmail.com,Delhi,Grocery,T-Shirt,1,999.00,Other,Delivered
+ORD1057,22-09-2024,Sneha,gmail.com,Delhi,Home,NULL,3,1299.00,COD,Pending
+ORD1173,29-04-2024,NULL,example@,Mumbai,Electronics,Other,1,999.00,Other,Delivered
+ORD1287,08-02-2023,NULL,gmail.com,Bangalore,NULL,Mobile,2,1299.00,COD,Pending
+ORD1154,27-03-2023,Rahul,yahoo.com,Mumbai,Home,Mobile,1,1299.00,Other,Delivered
+ORD1272,18-04-2024,Amit,yahoo.com,not specified,Other,T-Shirt,1,999.00,Other,Delivered
+ORD1298,20-06-2024,Priya,gmail.com,Hyderabad,Home,NULL,0,499.00,Debit Card,Cancelled
+ORD1245,25-05-2023,Guest,gmail.com,Delhi,Grocery,T-Shirt,0,1299.00,COD,Pending
+ORD1175,08-06-2024,NULL,gmail.com,not specified,Other,Laptop,1,999.00,Other,Delivered
+ORD1025,29-01-2024,Ritu,NULL,Mumbai,Electronics,NULL,0,1299.00,NULL,Cancelled
+ORD1172,19-04-2023,Guest,NULL,Hyderabad,Electronics,Other,1,999.00,Other,Delivered
+ORD1019,26-05-2023,Amit,yahoo.com,not specified,Other,Mixer,1,999.00,Other,Delivered
+ORD1050,04-01-2024,Amit,gmail.com,NULL,Electronics,Mobile,0,0.00,Credit Card,Pending
+ORD1152,17-08-2024,Rahul,example@,Pune,Grocery,Mobile,2,1299.00,NULL,Returned
+ORD1185,07-07-2024,NULL,NULL,Mumbai,Electronics,Mobile,0,0.00,COD,Pending
+ORD1124,01-06-2024,Priya,gmail.com,Mumbai,NULL,NULL,0,499.00,COD,Pending
+ORD1149,22-11-2024,Guest,NULL,Mumbai,Electronics,T-Shirt,1,1009.7954,COD,Delivered
+ORD1052,23-10-2024,Ritu,gmail.com,NULL,NULL,general,1,1009.7954,NULL,Delivered
+ORD1107,10-12-2024,Guest,gmail.com,Hyderabad,Electronics,Other,1,499.00,Other,Delivered
+ORD1004,04-08-2024,Amit,gmail.com,NULL,NULL,Mixer,0,1299.00,Debit Card,Cancelled
+ORD1195,15-09-2024,Amit,NULL,Pune,NULL,T-Shirt,0,0.00,UPI,Returned
+ORD1261,30-05-2024,Priya,yahoo.com,Mumbai,Electronics,T-Shirt,0,0.00,Credit Card,Pending
+ORD1046,16-12-2023,Guest,example@,Delhi,NULL,NULL,0,999.00,Debit Card,Pending
+ORD1268,16-12-2023,Priya,yahoo.com,Pune,NULL,Laptop,1,1009.7954,UPI,Delivered
+ORD1123,29-08-2024,NULL,yahoo.com,Hyderabad,Home,NULL,0,0.00,NULL,Cancelled
+ORD1105,25-10-2024,Ritu,gmail.com,Bangalore,Grocery,Mixer,0,1299.00,COD,Pending
+ORD1144,26-06-2024,Sneha,yahoo.com,NULL,Fashion,Mobile,3,0.00,Credit Card,Pending
+ORD1274,17-08-2023,Priya,NULL,Pune,NULL,general,1,1009.7954,NULL,Delivered
+ORD1091,01-07-2024,Ankit,NULL,Hyderabad,Electronics,Mobile,1,1299.00,Other,Delivered
+ORD1228,06-01-2023,Guest,yahoo.com,Hyderabad,Home,general,1,1009.7954,NULL,Delivered
+ORD1116,18-11-2023,Guest,gmail.com,Delhi,Electronics,T-Shirt,0,499.00,Debit Card,Pending
+ORD1121,07-10-2024,Sneha,NULL,Bangalore,Electronics,NULL,0,0.00,UPI,Cancelled
+ORD1238,28-08-2024,Sneha,example@,Bangalore,Electronics,NULL,0,499.00,Credit Card,Cancelled
+ORD1095,27-07-2024,Priya,NULL,Mumbai,Home,Mobile,1,999.00,Other,Delivered
+ORD1125,16-03-2024,Rahul,example@,Mumbai,Grocery,Shoes,1,0.00,UPI,Pending
+ORD1117,13-07-2023,Amit,example@,Bangalore,Electronics,Mobile,2,1299.00,Debit Card,Pending
+ORD1047,15-12-2024,Guest,NULL,Pune,Fashion,Mixer,0,499.00,UPI,Returned
+ORD1271,10-03-2024,Rahul,NULL,Mumbai,Other,Mixer,1,1299.00,Other,Delivered
+ORD1068,06-10-2024,Priya,NULL,NULL,NULL,Shoes,0,0.00,NULL,Cancelled
+ORD1153,24-12-2024,Ritu,NULL,Pune,Other,Shoes,1,1299.00,Other,Delivered
+ORD1085,15-06-2024,Rahul,example@,Delhi,Grocery,Laptop,2,999.00,UPI,Pending
+ORD1184,23-04-2023,Sneha,yahoo.com,Pune,Fashion,NULL,0,999.00,COD,Pending
+ORD1203,03-07-2024,Rahul,NULL,Bangalore,Home,NULL,1,1299.00,COD,Returned
+ORD1038,25-05-2024,Ankit,yahoo.com,Delhi,Electronics,Other,1,1299.00,Other,Delivered
+ORD1288,03-11-2024,Guest,yahoo.com,Delhi,Home,T-Shirt,1,999.00,NULL,Returned
+ORD1253,20-11-2024,Guest,yahoo.com,Mumbai,NULL,T-Shirt,1,1009.7954,NULL,Delivered
+ORD1249,11-10-2024,Amit,NULL,NULL,Home,Mixer,1,999.00,UPI,Pending
+ORD1009,21-06-2023,NULL,yahoo.com,Delhi,Home,Mixer,0,0.00,NULL,Cancelled
+ORD1289,03-10-2024,Guest,NULL,Delhi,Electronics,Mixer,0,999.00,NULL,Cancelled
+ORD1179,18-08-2024,Rahul,yahoo.com,Bangalore,Grocery,T-Shirt,0,499.00,Credit Card,Cancelled
+ORD1146,04-09-2024,Guest,yahoo.com,Mumbai,Fashion,Laptop,1,1009.7954,COD,Delivered
+ORD1256,03-07-2024,Guest,yahoo.com,Hyderabad,Grocery,NULL,3,999.00,Debit Card,Pending
+ORD1003,23-02-2024,Priya,NULL,NULL,NULL,Laptop,3,1299.00,NULL,Returned
+ORD1015,28-08-2024,Amit,NULL,Bangalore,Electronics,Laptop,0,0.00,Credit Card,Cancelled
+ORD1246,03-08-2024,Ankit,gmail.com,Pune,Other,Other,1,1299.00,Other,Delivered
+ORD1178,10-08-2024,Ritu,NULL,Pune,Electronics,NULL,2,999.00,COD,Returned
+ORD1167,16-11-2023,Rahul,yahoo.com,Hyderabad,Grocery,T-Shirt,1,1009.7954,COD,Delivered
+ORD1042,25-07-2024,Guest,yahoo.com,Bangalore,Grocery,NULL,3,999.00,COD,Returned
+ORD1284,17-08-2023,Amit,NULL,Hyderabad,Fashion,Other,1,999.00,Other,Delivered
+ORD1011,27-09-2023,Guest,yahoo.com,Hyderabad,Electronics,Other,1,499.00,Other,Delivered
+ORD1092,12-05-2023,Priya,NULL,not specified,Home,Mobile,1,1299.00,Other,Delivered
+ORD1089,23-08-2024,Sneha,yahoo.com,NULL,Electronics,NULL,0,1299.00,UPI,Returned
+ORD1114,11-02-2023,Ankit,gmail.com,Bangalore,Electronics,Mixer,1,1299.00,Other,Delivered
+ORD1104,30-03-2023,NULL,yahoo.com,Delhi,Electronics,Mixer,2,1299.00,Credit Card,Pending
+ORD1276,09-06-2024,Priya,yahoo.com,NULL,NULL,Mobile,2,1299.00,COD,Pending
+ORD1248,21-11-2024,NULL,NULL,not specified,Grocery,Mobile,1,1299.00,Other,Delivered
+ORD1163,28-09-2024,Amit,gmail.com,Bangalore,Home,NULL,1,999.00,Credit Card,Returned
+ORD1191,26-02-2024,Sneha,example@,Hyderabad,Home,general,1,1009.7954,Debit Card,Delivered
+ORD1176,28-07-2024,NULL,yahoo.com,Delhi,Fashion,Other,1,999.00,Other,Delivered
+ORD1035,26-10-2024,Ritu,NULL,Pune,Electronics,NULL,0,0.00,Debit Card,Cancelled
+ORD1189,07-09-2024,Amit,NULL,NULL,Fashion,NULL,1,999.00,Debit Card,Returned
+ORD1012,01-08-2024,NULL,NULL,Bangalore,Electronics,Laptop,0,1299.00,NULL,Cancelled
+ORD1061,14-05-2024,Sneha,NULL,Mumbai,Electronics,Other,1,999.00,Other,Delivered
+ORD1083,15-01-2023,Sneha,yahoo.com,Delhi,Grocery,NULL,0,0.00,NULL,Returned
+ORD1216,14-09-2024,Sneha,example@,Mumbai,Grocery,NULL,0,499.00,Debit Card,Pending
+ORD1186,30-10-2024,Amit,yahoo.com,Delhi,NULL,NULL,0,499.00,Credit Card,Cancelled
+ORD1018,16-10-2023,Sneha,NULL,Mumbai,NULL,Shoes,3,999.00,Debit Card,Pending
+ORD1264,03-07-2024,Ritu,example@,Hyderabad,NULL,Shoes,0,999.00,Debit Card,Pending
+ORD1283,16-03-2024,Ankit,NULL,not specified,Grocery,Other,1,1299.00,Other,Delivered
+ORD1024,05-06-2024,NULL,NULL,Mumbai,Home,T-Shirt,0,0.00,Credit Card,Pending
+ORD1150,26-09-2024,Ankit,gmail.com,NULL,Home,Shoes,0,1299.00,Debit Card,Pending
+ORD1056,08-06-2023,NULL,example@,Pune,Electronics,Other,1,1299.00,Other,Delivered
+ORD1180,26-11-2024,Sneha,NULL,Hyderabad,Electronics,Mobile,1,0.00,Credit Card,Pending
+ORD1222,09-10-2024,Guest,yahoo.com,Delhi,Fashion,Laptop,0,999.00,Debit Card,Cancelled
+ORD1220,15-11-2024,Sneha,NULL,Mumbai,Electronics,NULL,0,0.00,Credit Card,Pending
+ORD1234,10-05-2023,Ankit,yahoo.com,Delhi,Grocery,Laptop,1,1299.00,UPI,Returned
+ORD1145,15-02-2024,Rahul,example@,Mumbai,NULL,Mobile,3,0.00,Credit Card,Returned
